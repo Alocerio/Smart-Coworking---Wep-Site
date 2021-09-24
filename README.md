@@ -2,4 +2,4 @@
 
 Link hosted on FIREBASE: https://smart-coworking.web.app/
 
-Trabajo de maquetacion responsive con bootstrap! 
+Trabajo de maquetacion responsive con bootstrap y js! 
